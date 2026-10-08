@@ -9,7 +9,7 @@ Welcome! This is a clean, ready-to-use list of **34,860 retail companies across 
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **34,860 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($8 total) -> **[GUMROAD-PENDING-QUOTA]** |
+| **Full dataset** | **34,860 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($8 total) -> **https://islandprosoftware.gumroad.com/l/mqhpin** |
 
 > Start with the [free 500-row sample](companies_sample500.csv) -- same columns, same format as the full file. If it fits your workflow, grab the complete 34,860-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ This repo contains a **free 500-row sample** of retail canada companies. The sam
 - **34,860 canada retail companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $8 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here -> **[GUMROAD-PENDING-QUOTA]**
+- Buy here -> **https://islandprosoftware.gumroad.com/l/mqhpin**
 
 ## Use cases
 
